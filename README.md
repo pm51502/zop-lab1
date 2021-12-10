@@ -1,1 +1,1 @@
-# zop-lab1
+Introduction to Data Science - lab1 
